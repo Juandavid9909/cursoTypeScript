@@ -10,3 +10,4 @@
         console.log("Nos salvamos");
     }
 })();
+//# sourceMappingURL=numbers.js.map
